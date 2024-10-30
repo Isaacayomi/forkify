@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "parcel index.html",
-    "build": "parcel build controller.js"
+    "build": "parcel build src/js/controller.js"
   },
   "author": "Isaac Prime",
   "license": "ISC",
